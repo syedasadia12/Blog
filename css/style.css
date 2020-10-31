@@ -1,0 +1,57 @@
+body{
+    background-image: url(background-main.jpg);
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200%;
+    padding: 0mm;
+    margin: 5mm;
+    text-align: center;
+    font-family: serif;
+    text-decoration: none;
+   
+}
+header{
+  height: 60px;
+  margin: 0mm;  
+  color: Black;
+  
+}
+h1{
+    text-align: center;
+    font-style: normal;
+    font-family: cursive;
+}
+h3{
+    font-size: 23px;
+    font-family: monospace;
+    font-style: oblique;
+}
+nav{
+  width: 100%;
+  overflow: hidden;
+  float: center;
+  font-family: fantasy;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  width:250px;
+}
+nav a {
+  display: block;
+  float: center;
+  text-align: center;
+  padding: 3px 0px;
+  text-decoration: none;
+  color:navy;
+  text-size-adjust: 25px;
+}
+
+nav a:hover {
+  background-color:rgb(242, 247, 251);
+}
+
+
+
+
